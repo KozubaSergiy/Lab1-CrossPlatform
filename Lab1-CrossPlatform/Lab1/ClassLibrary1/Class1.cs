@@ -17,7 +17,7 @@ namespace ClassLibrary1
         
         public static double Sk(int R)
         {
-            double result = R/60;
+            double result = R/3600;
             return Convert.ToInt32(result);
         }
 
