@@ -12,7 +12,7 @@ namespace ClassLibrary1
         /// <summary>
         /// Sk (finding the number of full weeks)
         /// </summary>
-        /// <param name="R">the number of days that have elapsed since</param>
+        /// <param name="R">the number of seconds that have elapsed since</param>
         /// <returns>returns the value of result</returns>
         
         public static double Sk(int R)
